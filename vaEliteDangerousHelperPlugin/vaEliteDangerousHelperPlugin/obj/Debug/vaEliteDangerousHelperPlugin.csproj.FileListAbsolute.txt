@@ -1,0 +1,2 @@
+C:\gitRepos\vaEliteDangerousHelper\vaEliteDangerousHelperPlugin\vaEliteDangerousHelperPlugin\obj\Debug\vaEliteDangerousHelperPlugin.csproj.AssemblyReference.cache
+C:\gitRepos\vaEliteDangerousHelper\vaEliteDangerousHelperPlugin\vaEliteDangerousHelperPlugin\obj\Debug\vaEliteDangerousHelperPlugin.csproj.CoreCompileInputs.cache
