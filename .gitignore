@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/vaEliteDangerousHelperPlugin/vaEliteDangerousHelperPlugin/obj
+/.vs
+/vaEliteDangerousHelperPlugin/packages/Newtonsoft.Json.13.0.1

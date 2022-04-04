@@ -26,6 +26,7 @@ namespace vaEliteDangerousHelperPlugin
         }
         public static void VA_Init1(dynamic vaProxy)
         {
+            //Download data from Eddb.
 
         }
         
