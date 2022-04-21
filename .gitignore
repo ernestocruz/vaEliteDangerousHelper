@@ -2,5 +2,6 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
+/vaEliteDangerousHelperPlugin/vaEliteDangerousHelperPlugin/obj
 /.vs
-/vaEliteDangerousHelperPlugin/vaEliteDangerousHelperPlugin/obj/Release
+/vaEliteDangerousHelperPlugin/packages
