@@ -66,6 +66,7 @@
     <Compile Include="VAPluginEliteDCommandLoggerCommand.cs" />
     <Compile Include="Models\PluginInfo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VA\Enums.cs" />
     <Compile Include="VA\vaColor.cs" />
     <Compile Include="VA\VAPluginInformation.cs" />
     <Compile Include="VA\vaProxyAdapter.cs" />
